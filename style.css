@@ -12,14 +12,18 @@ nav{
 nav ul {
   display: flex;
   justify-content: space-between;
-  flex-direction: row;
+  /* flex-direction: row; */
   justify-content:space-around;
+  padding: 15px 0;
+  margin: auto
+  ;
 
 }
 main {
   width: 960px;
   margin: auto;
   margin-bottom: 30px;
+
 }
 
 main ul {
